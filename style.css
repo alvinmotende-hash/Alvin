@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+    margin: 10px;
+    padding: 15px;
+    background-color: beige;
+}
+image {
+    background-color: aqua;
+    padding: 15px;
+}
+header {
+     background-color: yellowgreen;
+     color: white; 
+     padding: 20px; 
+     text-align: left;
+     font-size: 30px;
+     font-family: 'Arial', sans-serif;
+}
+gallery { 
+    display: flex;
+    justify-content: center; 
+    gap: 20px;
+    padding: 20px
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+}
