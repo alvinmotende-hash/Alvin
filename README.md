@@ -6,14 +6,17 @@ It is a webpage that consists of photographs taken at different places.
 ## Installation
 Use git clone in order to download the file
 ## Installation Requirements
-Git
+1.Git v-3.1
 ### Installation instruction
-Git clone https://github.com/alvinmotende-hash/Alvin.git
+1.Git clone {*https://github.com/alvinmotende-hash/Alvin.git*}
+2.Open project folder {*cd Kiongoss*}
 ## Technologies used
-HTML
-CSS
-Github
+1.HTML
+2.CSS
+3.Github
 ## Support and contact details
 github.com/alvin-motende
+## known bugd
+No known bugs
 ## License
 The content of this site is licensed under the MIT license Copyright (c) 2026
