@@ -16,7 +16,9 @@ Use git clone in order to download the file
 3.Github
 ## Support and contact details
 github.com/alvin-motende
-## known bugd
+## known bugs
 No known bugs
+## contact
+@AM.gmail.com
 ## License
 The content of this site is licensed under the MIT license Copyright (c) 2026
