@@ -8,7 +8,7 @@ Use git clone in order to download the file
 ## Installation Requirements
 Git
 ### Installation instruction
-
+Git clone https://github.com/alvinmotende-hash/Alvin.git
 ## Technologies used
 HTML
 CSS
